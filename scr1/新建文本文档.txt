@@ -1,7 +1,0 @@
-http://img.onvshen.com:8080/gallery/20729/15543/cover/0.jpg
-2017-04-12 18:12:33 [scr1.spiders.new_girl_get] INFO: ÏÂÔØhttp://img.onvshen.com:8080/gallery/15828/
-15354/cover/0.jpg
-2017-04-12 18:12:34 [scr1.spiders.new_girl_get] INFO: ÏÂÔØhttp://img.onvshen.com:8080/gallery/19484/
-14620/cover/0.jpg
-2017-04-12 18:12:36 [scr1.spiders.new_girl_get] INFO: ÏÂÔØhttp://img.onvshen.com:8080/gallery/15828/
-13592/cover/0.jpg

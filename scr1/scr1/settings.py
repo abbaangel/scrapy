@@ -13,7 +13,7 @@ BOT_NAME = 'scr1'
 
 SPIDER_MODULES = ['scr1.spiders']
 NEWSPIDER_MODULE = 'scr1.spiders'
-'''
+
 #logging set below
 LOG_LEVEL = 'INFO'
 LOG_ENABLED = True
@@ -22,7 +22,6 @@ LOG_FILE = 'log.txt'
 LOG_FORMAT = '%(asctime)s [%(name)s] %(levelname)s: %(message)s'
 LOG_DATEFORMAT = '%Y-%m-%d %H:%M:%S'
 
-'''
 
 
 
@@ -40,7 +39,7 @@ ROBOTSTXT_OBEY = False
 # Configure a delay for requests for the same website (default: 0)
 # See http://scrapy.readthedocs.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-DOWNLOAD_DELAY = 0.2
+DOWNLOAD_DELAY = 0.3
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16
